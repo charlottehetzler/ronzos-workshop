@@ -10,7 +10,7 @@ function App(props) {
   let customersTable = [];
 
   customers.map(cust => {
-    for (let [key, value] of Object.entries(cust)) {
+    for (let [value] of Object.entries(cust)) {
       customersTable.push(value);
     }
     return customersTable;
