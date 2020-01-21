@@ -1,0 +1,19 @@
+{
+	"customers" : [
+		{"name" : "Customer guy", "membership_status" : "Member", "customer_for_years" : "5", "top_products" : ["brick", "shovel", "spade"]},
+		{"name" : "Mary Jane", "membership_status" : "Not Member", "customer_for_years" : "0", "top_products" : ["granite", "shovel", "cement"]},
+		{"name" : "Denzel Washington", "membership_status" : "Member", "customer_for_years" : "5", "top_products" : ["hammer", "helmet", "boot"]},
+		{"name" : "Donald Trump", "membership_status" : "Not Member", "customer_for_years" : "2", "top_products" : ["brick", "helmet", "hammer"]},
+		{"name" : "Xi Jin Ping", "membership_status" : "Member", "customer_for_years" : "3", "top_products" : ["gloves", "shovel", "boots"]},
+		{"name" : "Rock Man", "membership_status" : "Member", "customer_for_years" : "8", "top_products" : ["brick", "shovel", "cement"]}
+	],
+	"products" : [
+		{"title" : "hammer", "quantity" : "80"},
+		{"title" : "shovel", "quantity" : "21"},
+		{"title" : "cement", "quantity" : "98"},
+		{"title" : "gloves", "quantity" : "120"},
+		{"title" : "brick", "quantity" : "12000"},
+		{"title" : "helmet", "quantity" : "34"},
+		{"title" : "spade", "quantity" : "13"}
+	]
+}
